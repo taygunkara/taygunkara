@@ -12,9 +12,9 @@
 
 ## 👨‍💻 About Me
 
-With a background in Mechatronics Engineering, I specialize in managing software testing processes for e-commerce projects. My journey in software testing began as a co-founder of an e-commerce site, where I took charge of the testing processes. This experience led me to develop test scenarios for system transitions and conduct both manual and automated tests. 
+With a background in mechatronics engineering, I specialise in managing software testing processes for e-commerce projects. My journey in software testing began as a co-founder of an e-commerce site where I was responsible for the testing processes. This experience led me to develop test scenarios for system transitions and to perform both manual and automated tests. 
 
-You can find my education and work experiences on LinkedIn, or feel free to reach out to me via email.
+You can view my education, certificates and work experience on LinkedIn or feel free to contact me by email.
 
 ## 🛠️ Technical Skills
 
@@ -34,12 +34,7 @@ You can find my education and work experiences on LinkedIn, or feel free to reac
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
-## 📜 Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/ISTQB-Certified_Tester-00A98F?style=for-the-badge&logo=ISTQB&logoColor=white"/>
-</p>
-
 ---
 <p align="center">
-  🌟 Open to new opportunities and collaborations in software testing! 🌟
+  🌟 I am highly motivated, open to new challenges and enjoy taking on responsibility. I am looking for new opportunities in software testing where I can contribute with my previous experience! 🌟
 </p>
