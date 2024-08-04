@@ -1,21 +1,45 @@
-👋 Hi there! I'm [Taygun Kara]
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Software Testing Animation">
+</div>
 
-I'm a **Software Test Engineer** with a background in **Mechatronics Engineering** and experience in managing software testing processes for e-commerce projects. I am passionate about ensuring software quality through meticulous testing and continuous improvement of my skills. 
+<h1 align="center">Taygun Kara</h1>
+<h3 align="center">Software Test Engineer | ISTQB® Certified Tester</h3>
+
+<p align="center">
+  <a href="mailto:kara.taygun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/taygunkara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+## 👨‍💻 About Me
+
+With a background in Mechatronics Engineering, I specialize in managing software testing processes for e-commerce projects. My journey in software testing began as a co-founder of an e-commerce site, where I took charge of the testing processes. This experience led me to develop test scenarios for system transitions and conduct both manual and automated tests. 
+
+You can find my education and work experiences on LinkedIn, or feel free to reach out to me via email.
 
 ## 🛠️ Technical Skills
-- **Testing Tools and Frameworks:** Selenium, Rest Assured, TestNG, Cucumber, JUnit, Postman, JMeter
-- **Programming Languages:** Java, Python
-- **Software and Project Management Tools:** Jira, Trello, Git
-- **Systems and Platforms:** Linux
 
-## 🎓 Certificates
-- **ISTQB Certified Tester Foundation Level**
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rest_Assured-109989?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+</p>
 
-## 🌱 What I’m Looking For
-I am highly motivated, open to new challenges, and enjoy taking on responsibility. I am currently seeking new opportunities in the field of software test engineering where I can apply my past experiences and contribute to the success of new projects.
+## 📜 Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/ISTQB-Certified_Tester-00A98F?style=for-the-badge&logo=ISTQB&logoColor=white"/>
+</p>
 
-## 📫 How to Reach Me
-- **Email:** [kara.taygun@gmail.com](mailto:kara.taygun@gmail.com)
-- **LinkedIn:** [linkedin.com/in/taygunkara](https://linkedin.com/in/taygunkara)
-
-Feel free to reach out if you're interested in collaborating or if you have any opportunities where my skills could be of value. I'm always excited to connect with other professionals in the tech community!
+---
+<p align="center">
+  🌟 Open to new opportunities and collaborations in software testing! 🌟
+</p>
