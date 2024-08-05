@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Software Testing Animation">
-</div>
-
 <h1 align="center">Taygun Kara</h1>
 <h3 align="center">Software Test Engineer | ISTQB® Certified Tester</h3>
 
