@@ -1,5 +1,5 @@
 <h1 align="center">Taygun Kara</h1>
-<h3 align="center">Software Test Engineer | ISTQB® Certified Tester</h3>
+<h3 align="center">Software Test Engineer | ISTQB Certified Tester</h3>
 
 <p align="center">
   <a href="mailto:kara.taygun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
