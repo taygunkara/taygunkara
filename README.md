@@ -32,5 +32,5 @@ You can view my education, certificates and work experience on LinkedIn or feel 
 
 ---
 <p align="center">
-  🌟 I am highly motivated, open to new challenges and enjoy taking on responsibility. I am looking for new opportunities in software testing where I can contribute with my previous experience! 🌟
+  I am highly motivated, open to new challenges and enjoy taking on responsibility. I am looking for new opportunities in software testing where I can contribute with my previous experience!
 </p>
