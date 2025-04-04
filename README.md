@@ -3,9 +3,15 @@
 
 ## About Me
 
-I am a passionate Software Test Engineer with a background in Mechatronics Engineering. After graduating in 2019, I co-founded an e-commerce startup where I developed and managed the entire testing process—from creating manual test scenarios and reporting bugs to automating UI and API tests using Java, Selenium, and Rest Assured. I later expanded my experience by working on both B2B and B2C e-commerce platforms, implementing responsive design tests and integrating automated test frameworks with CI/CD tools like Jenkins.
+I’m a dedicated Software Test Engineer with a background in Mechatronics Engineering and a strong passion for building reliable and maintainable test systems.
 
-I continuously upgrade my skills through certifications and specialized courses, and I’m eager to contribute my expertise in test automation and quality assurance to new, dynamic projects.
+After graduating in 2019, I co-founded an e-commerce startup, where I identified the need for software testing and took full responsibility for the testing process. I started with manual test cases and bug reporting, and later built a UI automation framework using Java and Selenium, focusing on critical flows like payment and cross-browser compatibility.
+
+In my second role at a B2B/B2C e-commerce business, I led both manual and automated test efforts. I implemented a hybrid testing strategy combining Selenium (for UI and responsive design testing) and REST-assured (for API setup and preconditions). I created modular, reusable automation scripts following the Page Object Model and integrated them into Jenkins pipelines to ensure continuous feedback and test reliability.
+
+I pay close attention to user experience in responsive design testing—simulating different screen sizes, verifying element behavior, and ensuring accessibility across devices. My approach includes strong bug tracking/reporting practices using tools like Trello and Jira.
+
+I actively pursue growth through certifications (ISTQB), hands-on projects, and bootcamps. I’m currently seeking opportunities where I can apply my testing knowledge and contribute to scalable and efficient quality assurance solutions.
 
 ## Technical Skills
 
