@@ -17,4 +17,4 @@ I'm seeking new opportunities where I can apply my skills to deliver robust, aut
 
 ---
 
-📍 Location: Istanbul • 🌐 Portfolio: [taygunkara.github.io](https://taygunkara.github.io)
+📍 Location: Istanbul
